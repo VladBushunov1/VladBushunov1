@@ -26,7 +26,7 @@ I am a Data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white)
-![Superset](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=green)
+![Superset](https://img.shields.io/badge/Superset-black?style=for-the-badge&logo=Python&logoColor=green)
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladBushunov1&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladBushunov1&layout=compact&theme=vision-friendly-dark)](https://github.com/VladBushunov1/github-readme-stats)
